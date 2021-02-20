@@ -6,3 +6,6 @@
 开发环境：win10+IDEA2019+mysql 8.0+Tomcat9+maven3.6
 
 下次提交会把功能完善一些
+
+
+2.0 完善了一下功能：https://github.com/Alpha-chatbot/BookLendingsystem-2.0
